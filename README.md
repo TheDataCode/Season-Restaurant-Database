@@ -15,4 +15,4 @@ BasicSalesReport():
 Stored Procedure that returns aggregated sales report in the database
 
 
-![pic](attachment:season_restaurant_db.png)
+![season_restaurant_db](https://user-images.githubusercontent.com/107037322/228905100-54edb847-fea0-4c4c-8db7-7d3a18586f97.png)
