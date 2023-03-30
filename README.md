@@ -1,4 +1,5 @@
-#### Created a  MySQL database for a fictitious restaurant (season_restaurant) using MySQL/Python connector. 
+#### Season Restaurant Database                                                                                                                                             
+Created a  MySQL database for a fictitious restaurant (season_restaurant) using MySQL/Python connector. 
 
 #### Summary of project
 Created connection pools to handle user requests.                                                                             
