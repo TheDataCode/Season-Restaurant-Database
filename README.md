@@ -3,7 +3,7 @@ Created a  MySQL database for a fictitious restaurant (season_restaurant) using 
 
 #### Summary of project
 Created connection pools to handle user requests.                                                                             
-Created Stored Procedures to automate repeated reports.
+Created Stored Procedures to automate repeated report.
 
 #### Stored Procedures:  
 PeakHours():                                                                                                                
