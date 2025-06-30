@@ -1,4 +1,4 @@
-#### Season Restaurant Database                                                                                                                                             
+#### Season Restaurant Database Data Retrieval                                                                                                                                             
 Created a  MySQL database for a fictitious restaurant (season_restaurant) using MySQL/Python connector. 
 
 #### Summary of project
